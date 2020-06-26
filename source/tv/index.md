@@ -19,6 +19,11 @@ comments: false
 <script>
   var sources = [
     {
+      name: "全国风景总览",
+      src: "https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001",
+      type: "application/x-mpegURL"
+    },
+    {
       name: "CCTV1",
       src: "http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8",
       type: "application/x-mpegURL"
